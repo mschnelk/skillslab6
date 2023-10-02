@@ -1,3 +1,4 @@
 # skillslab6
 Big Ideas Lab
-Britney Lu
+
+this program will take inputs from the user and do something!
