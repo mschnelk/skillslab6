@@ -11,5 +11,5 @@ To run the code, open the jupyter notebook and hit the play button
 To contribute to this project, you can fork it at https://github.com/mschnelk/skillslab6, edit it as you wish, and then submit a pull request on github.
 
 ## Our Licence and CoC
-We chose to use the MIT License because 
+We chose to use the MIT License because it allows for anyone to view, use, and modify our project. 
 We chose to use the contributor covenant code of conduct because it's a thorough and commonly-used CoC for open source projects. 
